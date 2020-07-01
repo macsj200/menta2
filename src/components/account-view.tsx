@@ -1,5 +1,6 @@
 import React from 'react'
 import { Account } from '../types'
+import { Link } from 'react-router-dom'
 
 const roundToTwoDecimals = (num: number) => Math.floor(num * 100) / 100
 
@@ -34,6 +35,10 @@ export const AccountView: React.FC<{ account: Account, totalBalance: number }> =
             <div className="col">
               <div className="card-body">
                 <h5 className="card-title">{account.name}</h5>
+                <Link
+                  to={`/accounts/${account.id}`}
+                  className="btn btn-primary"
+                >More Info</Link>
                 <p className="card-text">
                   Balance: {account.balance}
                 </p>
