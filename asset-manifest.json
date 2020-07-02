@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.de177a35.chunk.js",
-    "main.js.map": "/static/js/main.de177a35.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c9407cfa.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c9407cfa.js.map",
-    "static/js/2.4905a5bb.chunk.js": "/static/js/2.4905a5bb.chunk.js",
-    "static/js/2.4905a5bb.chunk.js.map": "/static/js/2.4905a5bb.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.a44f73f1393172a1766567f05f8f091c.js": "/precache-manifest.a44f73f1393172a1766567f05f8f091c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.4905a5bb.chunk.js.LICENSE.txt": "/static/js/2.4905a5bb.chunk.js.LICENSE.txt"
+    "main.js": "/menta2/static/js/main.8fddf628.chunk.js",
+    "main.js.map": "/menta2/static/js/main.8fddf628.chunk.js.map",
+    "runtime-main.js": "/menta2/static/js/runtime-main.31b6af7e.js",
+    "runtime-main.js.map": "/menta2/static/js/runtime-main.31b6af7e.js.map",
+    "static/js/2.4905a5bb.chunk.js": "/menta2/static/js/2.4905a5bb.chunk.js",
+    "static/js/2.4905a5bb.chunk.js.map": "/menta2/static/js/2.4905a5bb.chunk.js.map",
+    "index.html": "/menta2/index.html",
+    "precache-manifest.da7034b094e18fabeef1e4e85e3b4bee.js": "/menta2/precache-manifest.da7034b094e18fabeef1e4e85e3b4bee.js",
+    "service-worker.js": "/menta2/service-worker.js",
+    "static/js/2.4905a5bb.chunk.js.LICENSE.txt": "/menta2/static/js/2.4905a5bb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c9407cfa.js",
+    "static/js/runtime-main.31b6af7e.js",
     "static/js/2.4905a5bb.chunk.js",
-    "static/js/main.de177a35.chunk.js"
+    "static/js/main.8fddf628.chunk.js"
   ]
 }
